@@ -1,0 +1,3 @@
+Bu kodu yazarken tüm belgelerin aynı klasörde olmasına dikkat et.
+Yani bill.png, card.jpg ve kimlikkartı.py aynı klasörde olmalı.
+KİMLİKKARTI.png zaeten klasörüne otomatik kaydolacak.
